@@ -14,4 +14,4 @@ Stroke Prediction Dataset (fedesoriano) di Kaggle: (https://www.kaggle.com/datas
 - testing_deploy.py : API Flask
 - gbc_model.joblib : model terlatih
 - data.json : contoh data masukan
-- Latihan_Mandiri.ipynb : notebook praktikum
+- latihan.ipynb : notebook praktikum
