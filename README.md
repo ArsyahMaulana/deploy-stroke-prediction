@@ -3,7 +3,7 @@
 Model Gradient Boosting Classifier untuk memprediksi stroke, disajikan sebagai API dengan Flask.
 
 ## Dataset
-Stroke Prediction Dataset (fedesoriano) di Kaggle: [tempel link halaman Kaggle]
+Stroke Prediction Dataset (fedesoriano) di Kaggle: (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ## Cara menjalankan
 1. pip install -r requirements.txt
