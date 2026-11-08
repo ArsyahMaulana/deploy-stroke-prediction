@@ -1,0 +1,9 @@
+# Data mentah dari Kaggle (besar, tidak di-push; link ada di README)
+*.csv
+*.xlsx
+*.zip
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
